@@ -1,0 +1,5 @@
+defines.h
+The C Prototye deffinitions for all functions, structs, enums ...
+
+starapi.py
+The Python wrapper class for the C funktions.
